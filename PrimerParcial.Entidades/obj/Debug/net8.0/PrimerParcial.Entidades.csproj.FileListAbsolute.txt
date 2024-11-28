@@ -1,0 +1,11 @@
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\bin\Debug\net8.0\PrimerParcial.Entidades.deps.json
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\bin\Debug\net8.0\PrimerParcial.Entidades.dll
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\bin\Debug\net8.0\PrimerParcial.Entidades.pdb
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\PrimerParcial.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\PrimerParcial.Entidades.AssemblyInfoInputs.cache
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\PrimerParcial.Entidades.AssemblyInfo.cs
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\PrimerParcial.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\PrimerParcial.Entidades.dll
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\refint\PrimerParcial.Entidades.dll
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\PrimerParcial.Entidades.pdb
+C:\Users\axeel\source\repos\PrimerParcial\PrimerParcial.Entidades\obj\Debug\net8.0\ref\PrimerParcial.Entidades.dll
